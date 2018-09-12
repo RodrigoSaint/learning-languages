@@ -21,6 +21,8 @@ Warum / Why
 Warum hast du das getan / Why did you do this?
 
 Wie / How
+Wie heisse du? / How are you called?
+Wie heisse Sie? / How are you called?
 Wie Geht's? / How are you going?
 Wie viel / How much?
 Wie viel kostet das? / How much it costs?
