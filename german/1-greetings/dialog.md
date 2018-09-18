@@ -12,11 +12,10 @@ P1 - Sind Sie aus deutschland? / Are you from Germany?
 P2 - Genau, Ich bin aus Berlin / Exactly, I am from Berlin
 P2 - Woher komme Sie? / Where are you from?
 P1 - Ich kommen aus Brasilien, aber ich wohnen in Munchen / I come from Brazil
+P1 - Wo lebst du? / Where do you live?
+P2 - Ich lebe in Berlin / I live in berlin
+P2 - Was machst du beruflich? / What do you do for a living?
+P1 - Ich arbeite als programmier und du? / I work as a programmer.
+P2 - Ich studiere? / I study
 P2 - Es tut mir leid, aber Ich muss gehen. Auf wiedersehen / I got to go. Good bye
 P1 - Auf wiedersehen / Good bye
-
-Dialog 2
-
-P1 - Hallo, Ich heisse Rodrigo. Wie heisst du?
-P2 - Ich heisse Jéssica. Freud mich, dich kennenzulernen
-P1 - Schon, dich kennenzulernen
